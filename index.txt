@@ -1,0 +1,2 @@
+Hello, world!
+This page includes an alert written in JavaScript.
